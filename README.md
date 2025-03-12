@@ -23,5 +23,5 @@ Check out the live demo of the project: [AI-Based Skin Disease Prediction System
 **Installation:**
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/Rahulkannan0784/AI-Based-Skin-disease-Prediction-System.git
+   ```sh[
+   git https://github.com/VISHNU-1019/AI-Dermatology
